@@ -1,0 +1,7 @@
+Myles Traut
+Tel: 	0731911779
+eMail: 	myles.traut1@gmail.com
+
+This is one of my favourite pieces of code as it was the first time I implemented a custom data structure into a project.
+
+https://github.com/mylestraut/Image_Viewer/blob/master/LinkedList/LinkedList.py
