@@ -1,0 +1,173 @@
+
+@font-face {
+  font-family: Avenir;
+  src: url(static_files/fonts/"Avenir Next.ttc");
+}
+
+
+main {
+	background-color: #F0F0F0;
+}
+
+
+img {
+	display: block;
+}
+
+p {
+	padding-bottom: 20px;
+	font-family: Avenir;
+}
+
+h1 {
+	color: #ff6600;
+	font-family: Avenir;
+}
+
+h3, .info {
+	font-family: Avenir;
+}
+
+.label {
+	color: #ff6600;
+	font-family: Avenir;
+	font-size: 16px;
+}
+
+.student-info {
+  	display: flex;
+  	align-items: baseline;
+}
+
+
+.jumbotron {
+	margin-top: 30px;
+	background-color: white;
+}
+
+.jumbo-heading {
+	display: flex;
+	align-items: center;
+}
+
+.inner {
+	margin-right: auto;
+}
+
+.line {
+	padding-bottom: 25px;
+	padding-top: 25px;
+}
+
+.bottom {
+	margin-top: 5px;
+}
+
+.warning {
+	font-family: Avenir;
+	border: 1px solid #ff6600;
+  	border-color: #ff6600;
+  	color: #ff6600;
+}
+
+.warning-okay {
+  	background: #ff6600;
+  	color: white;
+}
+
+.warning:hover {
+  	background: #ff6600;
+  	color: white;
+}
+
+.solid-warning {
+	background: #ff6600;
+	color: white;
+	font-family: Avenir;
+}
+
+.footer {
+	margin-top: 20px;
+	margin-bottom: 100px;
+}
+
+.column {
+	float: left;
+  	width: 35%;
+  	
+}
+
+.image-row::after {
+  	content: "";
+  	clear: both;
+  	display: inline-flex;
+}
+
+.trial{
+	font-family: Avenir;
+	font-size: 24px;
+	margin-bottom: 20px;
+	padding-left: 50px;
+}
+
+.right{
+	margin-top: 20px;
+}
+
+.info{
+	border-bottom: 1px solid #D3D3D3;
+	padding-bottom: 40px;
+}
+
+.programs-written, .code-reviews {
+	padding-left: 20px;
+}
+
+.book-a-call {
+	padding-top: 10px;
+}
+
+.blurb {
+	padding-top: 20px;
+}
+
+.progress {
+	display: flex;
+	align-items: center;
+	padding: 25px;
+	color: white;
+	background: #ff6600;
+}
+
+.future-progress {
+	display: flex;
+	align-items: center;
+	padding: 10px;
+	border: 1px solid #ff6600;
+  	border-color: #ff6600;
+  	color: #ff6600;
+  	border-radius: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

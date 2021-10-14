@@ -1,0 +1,27 @@
+{% load static %}
+
+<!DOCTYPE html>
+
+<html>
+	
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
+		<title>Front End Take Home Test</title>
+		{% include 'base/bootstrap.html' %}
+		<link rel="stylesheet" href="{% static 'css/main.css' %}">
+	</head>
+	
+	<body>
+		{% include 'base/navbar.html' %}	
+		
+		<main>
+			{% block content %}
+				
+			{% endblock content %}
+		</main>
+		
+		
+	</body>
+	
+	
+</html>
